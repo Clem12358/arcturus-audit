@@ -1,0 +1,282 @@
+{
+  "as_of_date": "2026-03-31",
+  "run_id": "live_20260418_0937_miqp_bl1.0_t40_mp0.002",
+  "methodology_version": "unspecified",
+  "n_positions": 40,
+  "top_5": [
+    {
+      "symbol": "SCM",
+      "weight": 0.05
+    },
+    {
+      "symbol": "BX",
+      "weight": 0.05
+    },
+    {
+      "symbol": "NLY",
+      "weight": 0.05
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.05
+    },
+    {
+      "symbol": "ENIC",
+      "weight": 0.049984
+    }
+  ],
+  "sector_allocation": {
+    "Financial Services": 0.25,
+    "Consumer Cyclical": 0.146333,
+    "Technology": 0.137277,
+    "Real Estate": 0.118756,
+    "Communication Services": 0.097089,
+    "Energy": 0.091578,
+    "Industrials": 0.052906,
+    "Utilities": 0.049984,
+    "Basic Materials": 0.046755,
+    "Healthcare": 0.009323
+  },
+  "positions": [
+    {
+      "symbol": "SCM",
+      "weight": 0.05,
+      "sector": "Financial Services",
+      "expected_return": 0.221777
+    },
+    {
+      "symbol": "BX",
+      "weight": 0.05,
+      "sector": "Financial Services",
+      "expected_return": 0.154023
+    },
+    {
+      "symbol": "NLY",
+      "weight": 0.05,
+      "sector": "Real Estate",
+      "expected_return": 0.081239
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.05,
+      "sector": "Financial Services",
+      "expected_return": 0.133715
+    },
+    {
+      "symbol": "ENIC",
+      "weight": 0.049984,
+      "sector": "Utilities",
+      "expected_return": 0.078816
+    },
+    {
+      "symbol": "BABA",
+      "weight": 0.049714,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.109091
+    },
+    {
+      "symbol": "AAPL",
+      "weight": 0.049487,
+      "sector": "Technology",
+      "expected_return": 0.114824
+    },
+    {
+      "symbol": "RITM",
+      "weight": 0.046429,
+      "sector": "Real Estate",
+      "expected_return": 0.089453
+    },
+    {
+      "symbol": "SLB",
+      "weight": 0.042746,
+      "sector": "Energy",
+      "expected_return": 0.133461
+    },
+    {
+      "symbol": "TLK",
+      "weight": 0.040207,
+      "sector": "Communication Services",
+      "expected_return": 0.083993
+    },
+    {
+      "symbol": "TV",
+      "weight": 0.032146,
+      "sector": "Communication Services",
+      "expected_return": 0.090435
+    },
+    {
+      "symbol": "APO",
+      "weight": 0.02816,
+      "sector": "Financial Services",
+      "expected_return": 0.150804
+    },
+    {
+      "symbol": "FISV",
+      "weight": 0.025057,
+      "sector": "Technology",
+      "expected_return": 0.098526
+    },
+    {
+      "symbol": "MGM",
+      "weight": 0.024781,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.144268
+    },
+    {
+      "symbol": "LYV",
+      "weight": 0.024736,
+      "sector": "Communication Services",
+      "expected_return": 0.076342
+    },
+    {
+      "symbol": "RACE",
+      "weight": 0.02404,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.075518
+    },
+    {
+      "symbol": "HON",
+      "weight": 0.023991,
+      "sector": "Industrials",
+      "expected_return": 0.07825
+    },
+    {
+      "symbol": "F",
+      "weight": 0.023073,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.092742
+    },
+    {
+      "symbol": "FERG",
+      "weight": 0.0229,
+      "sector": "Industrials",
+      "expected_return": 0.096822
+    },
+    {
+      "symbol": "SPG",
+      "weight": 0.022327,
+      "sector": "Real Estate",
+      "expected_return": 0.080259
+    },
+    {
+      "symbol": "WF",
+      "weight": 0.021755,
+      "sector": "Financial Services",
+      "expected_return": 0.092334
+    },
+    {
+      "symbol": "HSBC",
+      "weight": 0.020661,
+      "sector": "Financial Services",
+      "expected_return": 0.098718
+    },
+    {
+      "symbol": "WDAY",
+      "weight": 0.019793,
+      "sector": "Technology",
+      "expected_return": 0.080997
+    },
+    {
+      "symbol": "MCO",
+      "weight": 0.019179,
+      "sector": "Financial Services",
+      "expected_return": 0.092131
+    },
+    {
+      "symbol": "SONY",
+      "weight": 0.018104,
+      "sector": "Technology",
+      "expected_return": 0.082811
+    },
+    {
+      "symbol": "TXN",
+      "weight": 0.017013,
+      "sector": "Technology",
+      "expected_return": 0.119133
+    },
+    {
+      "symbol": "RIO",
+      "weight": 0.015573,
+      "sector": "Basic Materials",
+      "expected_return": 0.080471
+    },
+    {
+      "symbol": "CSAN",
+      "weight": 0.015093,
+      "sector": "Energy",
+      "expected_return": 0.125408
+    },
+    {
+      "symbol": "CPNG",
+      "weight": 0.013203,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.092978
+    },
+    {
+      "symbol": "TGS",
+      "weight": 0.012931,
+      "sector": "Energy",
+      "expected_return": 0.121368
+    },
+    {
+      "symbol": "PKX",
+      "weight": 0.012915,
+      "sector": "Basic Materials",
+      "expected_return": 0.093007
+    },
+    {
+      "symbol": "FLUT",
+      "weight": 0.011522,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.100416
+    },
+    {
+      "symbol": "EC",
+      "weight": 0.011137,
+      "sector": "Energy",
+      "expected_return": 0.07681
+    },
+    {
+      "symbol": "LYG",
+      "weight": 0.010245,
+      "sector": "Financial Services",
+      "expected_return": 0.088589
+    },
+    {
+      "symbol": "VG",
+      "weight": 0.009671,
+      "sector": "Energy",
+      "expected_return": 0.111612
+    },
+    {
+      "symbol": "VALE",
+      "weight": 0.009463,
+      "sector": "Basic Materials",
+      "expected_return": 0.098763
+    },
+    {
+      "symbol": "NVO",
+      "weight": 0.009323,
+      "sector": "Healthcare",
+      "expected_return": 0.100897
+    },
+    {
+      "symbol": "BAK",
+      "weight": 0.008804,
+      "sector": "Basic Materials",
+      "expected_return": 0.162147
+    },
+    {
+      "symbol": "LPL",
+      "weight": 0.007823,
+      "sector": "Technology",
+      "expected_return": 0.104062
+    },
+    {
+      "symbol": "GE",
+      "weight": 0.006015,
+      "sector": "Industrials",
+      "expected_return": 0.08256
+    }
+  ]
+}
