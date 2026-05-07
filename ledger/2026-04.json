@@ -1,0 +1,283 @@
+{
+  "as_of_date": "2026-04-30",
+  "run_id": "wf_20260506_1508_miqp_bl1.0_t40_mp0.002_v6_filter_no_mega",
+  "methodology_version": "v6_filter (universe filter + data-quality guardrail)",
+  "n_positions": 40,
+  "top_5": [
+    {
+      "symbol": "AAPL",
+      "weight": 0.05795
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.053661
+    },
+    {
+      "symbol": "BTI",
+      "weight": 0.050643
+    },
+    {
+      "symbol": "META",
+      "weight": 0.044829
+    },
+    {
+      "symbol": "CVX",
+      "weight": 0.04362
+    }
+  ],
+  "sector_allocation": {
+    "Technology": 0.25,
+    "Healthcare": 0.15116,
+    "Financial Services": 0.112217,
+    "Communication Services": 0.094887,
+    "Consumer Cyclical": 0.081853,
+    "Energy": 0.08031,
+    "Basic Materials": 0.067371,
+    "Industrials": 0.064804,
+    "Consumer Defensive": 0.062538,
+    "Utilities": 0.025465,
+    "Real Estate": 0.009398
+  },
+  "positions": [
+    {
+      "symbol": "AAPL",
+      "weight": 0.05795,
+      "sector": "Technology",
+      "expected_return": 0.032965
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.053661,
+      "sector": "Financial Services",
+      "expected_return": 0.039399
+    },
+    {
+      "symbol": "BTI",
+      "weight": 0.050643,
+      "sector": "Consumer Defensive",
+      "expected_return": 0.01204
+    },
+    {
+      "symbol": "META",
+      "weight": 0.044829,
+      "sector": "Communication Services",
+      "expected_return": 0.052122
+    },
+    {
+      "symbol": "CVX",
+      "weight": 0.04362,
+      "sector": "Energy",
+      "expected_return": -0.012304
+    },
+    {
+      "symbol": "BSX",
+      "weight": 0.038813,
+      "sector": "Healthcare",
+      "expected_return": 0.031836
+    },
+    {
+      "symbol": "AMD",
+      "weight": 0.037403,
+      "sector": "Technology",
+      "expected_return": 0.102826
+    },
+    {
+      "symbol": "MLM",
+      "weight": 0.036507,
+      "sector": "Basic Materials",
+      "expected_return": 0.030548
+    },
+    {
+      "symbol": "CSCO",
+      "weight": 0.033581,
+      "sector": "Technology",
+      "expected_return": 0.03317
+    },
+    {
+      "symbol": "BX",
+      "weight": 0.030736,
+      "sector": "Financial Services",
+      "expected_return": 0.047401
+    },
+    {
+      "symbol": "VOD",
+      "weight": 0.029721,
+      "sector": "Communication Services",
+      "expected_return": 0.013878
+    },
+    {
+      "symbol": "LLY",
+      "weight": 0.029537,
+      "sector": "Healthcare",
+      "expected_return": 0.021611
+    },
+    {
+      "symbol": "SHOP",
+      "weight": 0.028023,
+      "sector": "Technology",
+      "expected_return": 0.102541
+    },
+    {
+      "symbol": "NVDA",
+      "weight": 0.027921,
+      "sector": "Technology",
+      "expected_return": 0.056691
+    },
+    {
+      "symbol": "TRV",
+      "weight": 0.02782,
+      "sector": "Financial Services",
+      "expected_return": -0.00434
+    },
+    {
+      "symbol": "HTHT",
+      "weight": 0.02667,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.012162
+    },
+    {
+      "symbol": "KEP",
+      "weight": 0.025465,
+      "sector": "Utilities",
+      "expected_return": 0.03068
+    },
+    {
+      "symbol": "FDX",
+      "weight": 0.023636,
+      "sector": "Industrials",
+      "expected_return": 0.036095
+    },
+    {
+      "symbol": "HMC",
+      "weight": 0.022569,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.033738
+    },
+    {
+      "symbol": "AMGN",
+      "weight": 0.022395,
+      "sector": "Healthcare",
+      "expected_return": 0.021271
+    },
+    {
+      "symbol": "E",
+      "weight": 0.021938,
+      "sector": "Energy",
+      "expected_return": 0.00242
+    },
+    {
+      "symbol": "HCA",
+      "weight": 0.020849,
+      "sector": "Healthcare",
+      "expected_return": 0.005636
+    },
+    {
+      "symbol": "TT",
+      "weight": 0.020794,
+      "sector": "Industrials",
+      "expected_return": 0.036938
+    },
+    {
+      "symbol": "TRI",
+      "weight": 0.020374,
+      "sector": "Industrials",
+      "expected_return": 0.010824
+    },
+    {
+      "symbol": "TV",
+      "weight": 0.020337,
+      "sector": "Communication Services",
+      "expected_return": 0.013285
+    },
+    {
+      "symbol": "TM",
+      "weight": 0.018976,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.03889
+    },
+    {
+      "symbol": "SAP",
+      "weight": 0.016871,
+      "sector": "Technology",
+      "expected_return": 0.030112
+    },
+    {
+      "symbol": "BAK",
+      "weight": 0.016316,
+      "sector": "Basic Materials",
+      "expected_return": 0.056515
+    },
+    {
+      "symbol": "RMD",
+      "weight": 0.015466,
+      "sector": "Healthcare",
+      "expected_return": 0.024005
+    },
+    {
+      "symbol": "CRWV",
+      "weight": 0.014994,
+      "sector": "Technology",
+      "expected_return": 0.119955
+    },
+    {
+      "symbol": "SLB",
+      "weight": 0.014752,
+      "sector": "Energy",
+      "expected_return": 0.0252
+    },
+    {
+      "symbol": "RIO",
+      "weight": 0.014548,
+      "sector": "Basic Materials",
+      "expected_return": 0.032943
+    },
+    {
+      "symbol": "TSLA",
+      "weight": 0.013638,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.071445
+    },
+    {
+      "symbol": "WDAY",
+      "weight": 0.013259,
+      "sector": "Technology",
+      "expected_return": 0.019984
+    },
+    {
+      "symbol": "CI",
+      "weight": 0.012913,
+      "sector": "Healthcare",
+      "expected_return": 0.003304
+    },
+    {
+      "symbol": "DEO",
+      "weight": 0.011895,
+      "sector": "Consumer Defensive",
+      "expected_return": 0.010148
+    },
+    {
+      "symbol": "SNY",
+      "weight": 0.011187,
+      "sector": "Healthcare",
+      "expected_return": 0.016064
+    },
+    {
+      "symbol": "APP",
+      "weight": 0.010203,
+      "sector": "Technology",
+      "expected_return": 0.095128
+    },
+    {
+      "symbol": "CRM",
+      "weight": 0.009795,
+      "sector": "Technology",
+      "expected_return": 0.026757
+    },
+    {
+      "symbol": "CCI",
+      "weight": 0.009398,
+      "sector": "Real Estate",
+      "expected_return": 0.002108
+    }
+  ]
+}
