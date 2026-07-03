@@ -1,0 +1,282 @@
+{
+  "as_of_date": "2026-06-30",
+  "run_id": "wf_20260506_1508_miqp_bl1.0_t40_mp0.002_v6_filter_no_mega",
+  "methodology_version": "v6_filter_no_mega",
+  "n_positions": 40,
+  "top_5": [
+    {
+      "symbol": "AAPL",
+      "weight": 0.063115
+    },
+    {
+      "symbol": "AMD",
+      "weight": 0.062601
+    },
+    {
+      "symbol": "BTI",
+      "weight": 0.054327
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.051722
+    },
+    {
+      "symbol": "META",
+      "weight": 0.042148
+    }
+  ],
+  "sector_allocation": {
+    "Technology": 0.247046,
+    "Healthcare": 0.134092,
+    "Communication Services": 0.127047,
+    "Financial Services": 0.111877,
+    "Consumer Cyclical": 0.099438,
+    "Industrials": 0.075656,
+    "Energy": 0.069057,
+    "Consumer Defensive": 0.066435,
+    "Basic Materials": 0.048772,
+    "Utilities": 0.020583
+  },
+  "positions": [
+    {
+      "symbol": "AAPL",
+      "weight": 0.063115,
+      "sector": "Technology",
+      "expected_return": 0.023143
+    },
+    {
+      "symbol": "AMD",
+      "weight": 0.062601,
+      "sector": "Technology",
+      "expected_return": 0.068899
+    },
+    {
+      "symbol": "BTI",
+      "weight": 0.054327,
+      "sector": "Consumer Defensive",
+      "expected_return": 0.004829
+    },
+    {
+      "symbol": "KB",
+      "weight": 0.051722,
+      "sector": "Financial Services",
+      "expected_return": 0.034274
+    },
+    {
+      "symbol": "META",
+      "weight": 0.042148,
+      "sector": "Communication Services",
+      "expected_return": 0.03083
+    },
+    {
+      "symbol": "GOOG",
+      "weight": 0.03973,
+      "sector": "Communication Services",
+      "expected_return": 0.034712
+    },
+    {
+      "symbol": "LLY",
+      "weight": 0.038716,
+      "sector": "Healthcare",
+      "expected_return": 0.007952
+    },
+    {
+      "symbol": "CVX",
+      "weight": 0.038202,
+      "sector": "Energy",
+      "expected_return": -0.009538
+    },
+    {
+      "symbol": "MLM",
+      "weight": 0.034734,
+      "sector": "Basic Materials",
+      "expected_return": 0.015669
+    },
+    {
+      "symbol": "CSCO",
+      "weight": 0.030792,
+      "sector": "Technology",
+      "expected_return": 0.020841
+    },
+    {
+      "symbol": "TRV",
+      "weight": 0.03074,
+      "sector": "Financial Services",
+      "expected_return": 0.001381
+    },
+    {
+      "symbol": "BX",
+      "weight": 0.029415,
+      "sector": "Financial Services",
+      "expected_return": 0.02935
+    },
+    {
+      "symbol": "BSX",
+      "weight": 0.029368,
+      "sector": "Healthcare",
+      "expected_return": 0.011522
+    },
+    {
+      "symbol": "HMC",
+      "weight": 0.025674,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.021843
+    },
+    {
+      "symbol": "VOD",
+      "weight": 0.025418,
+      "sector": "Communication Services",
+      "expected_return": 0.014489
+    },
+    {
+      "symbol": "AVGO",
+      "weight": 0.024887,
+      "sector": "Technology",
+      "expected_return": 0.047114
+    },
+    {
+      "symbol": "AMGN",
+      "weight": 0.023921,
+      "sector": "Healthcare",
+      "expected_return": 0.010999
+    },
+    {
+      "symbol": "SHOP",
+      "weight": 0.022835,
+      "sector": "Technology",
+      "expected_return": 0.048628
+    },
+    {
+      "symbol": "HTHT",
+      "weight": 0.022006,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.007516
+    },
+    {
+      "symbol": "TT",
+      "weight": 0.021178,
+      "sector": "Industrials",
+      "expected_return": 0.027352
+    },
+    {
+      "symbol": "KEP",
+      "weight": 0.020583,
+      "sector": "Utilities",
+      "expected_return": 0.026027
+    },
+    {
+      "symbol": "TV",
+      "weight": 0.019751,
+      "sector": "Communication Services",
+      "expected_return": 0.016439
+    },
+    {
+      "symbol": "AMZN",
+      "weight": 0.019461,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.031348
+    },
+    {
+      "symbol": "HCA",
+      "weight": 0.01911,
+      "sector": "Healthcare",
+      "expected_return": 0.003429
+    },
+    {
+      "symbol": "FDX",
+      "weight": 0.018742,
+      "sector": "Industrials",
+      "expected_return": 0.024456
+    },
+    {
+      "symbol": "E",
+      "weight": 0.01854,
+      "sector": "Energy",
+      "expected_return": 0.001707
+    },
+    {
+      "symbol": "TRI",
+      "weight": 0.01776,
+      "sector": "Industrials",
+      "expected_return": 0.004253
+    },
+    {
+      "symbol": "TM",
+      "weight": 0.016946,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.023991
+    },
+    {
+      "symbol": "SAP",
+      "weight": 0.015667,
+      "sector": "Technology",
+      "expected_return": 0.015852
+    },
+    {
+      "symbol": "TSLA",
+      "weight": 0.015351,
+      "sector": "Consumer Cyclical",
+      "expected_return": 0.039699
+    },
+    {
+      "symbol": "RIO",
+      "weight": 0.014038,
+      "sector": "Basic Materials",
+      "expected_return": 0.03101
+    },
+    {
+      "symbol": "CI",
+      "weight": 0.012513,
+      "sector": "Healthcare",
+      "expected_return": 0.001973
+    },
+    {
+      "symbol": "SLB",
+      "weight": 0.012315,
+      "sector": "Energy",
+      "expected_return": 0.01742
+    },
+    {
+      "symbol": "DEO",
+      "weight": 0.012108,
+      "sector": "Consumer Defensive",
+      "expected_return": 0.007858
+    },
+    {
+      "symbol": "VRT",
+      "weight": 0.011955,
+      "sector": "Industrials",
+      "expected_return": 0.058362
+    },
+    {
+      "symbol": "APP",
+      "weight": 0.010716,
+      "sector": "Technology",
+      "expected_return": 0.046576
+    },
+    {
+      "symbol": "SNY",
+      "weight": 0.010464,
+      "sector": "Healthcare",
+      "expected_return": 0.008441
+    },
+    {
+      "symbol": "CRM",
+      "weight": 0.008878,
+      "sector": "Technology",
+      "expected_return": 0.006866
+    },
+    {
+      "symbol": "CRWV",
+      "weight": 0.007555,
+      "sector": "Technology",
+      "expected_return": 0.068007
+    },
+    {
+      "symbol": "HON",
+      "weight": 0.006021,
+      "sector": "Industrials",
+      "expected_return": 0.025566
+    }
+  ]
+}
